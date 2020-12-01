@@ -55,8 +55,7 @@ activity_main.xml
         tools:layout_editor_absoluteY="324dp" />
 </android.support.constraint.ConstraintLayout>
 ```
-编译后，使用V1签名，而不使用V2签名：
-![af48e55567fb80601a86476d4dd3cd88.png](en-resource://database/2617:0)
+编译后，使用V1签名，而不使用V2签名
 #### 检查原始APP
 ```c
 C:\Users\伊木\Desktop\工具集\moblietools>java -jar GetAPKInfo.jar app-release.apk
